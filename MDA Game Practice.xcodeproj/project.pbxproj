@@ -15,6 +15,7 @@
 		9FFF1A9A25E8387B00E97380 /* Screenshot02.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FFF1A9725E8387B00E97380 /* Screenshot02.png */; };
 		9FFF1A9B25E8387B00E97380 /* Screenshot03.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FFF1A9825E8387B00E97380 /* Screenshot03.png */; };
 		9FFF1A9C25E8387B00E97380 /* Screenshot01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FFF1A9925E8387B00E97380 /* Screenshot01.png */; };
+		9FFF1AA025E8459700E97380 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9FFF1A9F25E8459700E97380 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		9FFF1A9725E8387B00E97380 /* Screenshot02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot02.png; sourceTree = "<group>"; };
 		9FFF1A9825E8387B00E97380 /* Screenshot03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot03.png; sourceTree = "<group>"; };
 		9FFF1A9925E8387B00E97380 /* Screenshot01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot01.png; sourceTree = "<group>"; };
+		9FFF1A9F25E8459700E97380 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 		9FAD569C25E2D2D500A02DCA = {
 			isa = PBXGroup;
 			children = (
+				9FFF1A9F25E8459700E97380 /* README.md */,
 				9FAD56A725E2D2D500A02DCA /* MDA Game Practice */,
 				9FAD56A625E2D2D500A02DCA /* Products */,
 			);
@@ -141,6 +144,7 @@
 				9FAD56AB25E2D2D500A02DCA /* art.scnassets in Resources */,
 				9FAD56B225E2D2D600A02DCA /* Assets.xcassets in Resources */,
 				9FFF1A9C25E8387B00E97380 /* Screenshot01.png in Resources */,
+				9FFF1AA025E8459700E97380 /* README.md in Resources */,
 				9FAD56B025E2D2D500A02DCA /* Main.storyboard in Resources */,
 				9FFF1A9B25E8387B00E97380 /* Screenshot03.png in Resources */,
 				9FFF1A9A25E8387B00E97380 /* Screenshot02.png in Resources */,
