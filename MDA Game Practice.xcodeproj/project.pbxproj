@@ -12,6 +12,9 @@
 		9FAD56AD25E2D2D500A02DCA /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FAD56AC25E2D2D500A02DCA /* GameViewController.swift */; };
 		9FAD56B025E2D2D500A02DCA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FAD56AE25E2D2D500A02DCA /* Main.storyboard */; };
 		9FAD56B225E2D2D600A02DCA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FAD56B125E2D2D600A02DCA /* Assets.xcassets */; };
+		9FFF1A9A25E8387B00E97380 /* Screenshot02.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FFF1A9725E8387B00E97380 /* Screenshot02.png */; };
+		9FFF1A9B25E8387B00E97380 /* Screenshot03.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FFF1A9825E8387B00E97380 /* Screenshot03.png */; };
+		9FFF1A9C25E8387B00E97380 /* Screenshot01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FFF1A9925E8387B00E97380 /* Screenshot01.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		9FAD56AF25E2D2D500A02DCA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9FAD56B125E2D2D600A02DCA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9FAD56B325E2D2D600A02DCA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9FFF1A9725E8387B00E97380 /* Screenshot02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot02.png; sourceTree = "<group>"; };
+		9FFF1A9825E8387B00E97380 /* Screenshot03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot03.png; sourceTree = "<group>"; };
+		9FFF1A9925E8387B00E97380 /* Screenshot01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot01.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,12 +62,23 @@
 			children = (
 				9FAD56A825E2D2D500A02DCA /* AppDelegate.swift */,
 				9FAD56AA25E2D2D500A02DCA /* art.scnassets */,
-				9FAD56AC25E2D2D500A02DCA /* GameViewController.swift */,
-				9FAD56AE25E2D2D500A02DCA /* Main.storyboard */,
 				9FAD56B125E2D2D600A02DCA /* Assets.xcassets */,
+				9FAD56AC25E2D2D500A02DCA /* GameViewController.swift */,
 				9FAD56B325E2D2D600A02DCA /* Info.plist */,
+				9FAD56AE25E2D2D500A02DCA /* Main.storyboard */,
+				9FFF1A9E25E8388400E97380 /* Screenshots */,
 			);
 			path = "MDA Game Practice";
+			sourceTree = "<group>";
+		};
+		9FFF1A9E25E8388400E97380 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				9FFF1A9925E8387B00E97380 /* Screenshot01.png */,
+				9FFF1A9725E8387B00E97380 /* Screenshot02.png */,
+				9FFF1A9825E8387B00E97380 /* Screenshot03.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,7 +140,10 @@
 			files = (
 				9FAD56AB25E2D2D500A02DCA /* art.scnassets in Resources */,
 				9FAD56B225E2D2D600A02DCA /* Assets.xcassets in Resources */,
+				9FFF1A9C25E8387B00E97380 /* Screenshot01.png in Resources */,
 				9FAD56B025E2D2D500A02DCA /* Main.storyboard in Resources */,
+				9FFF1A9B25E8387B00E97380 /* Screenshot03.png in Resources */,
+				9FFF1A9A25E8387B00E97380 /* Screenshot02.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
